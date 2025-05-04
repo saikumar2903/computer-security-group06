@@ -34,7 +34,6 @@ The project focuses on four main phases:
 | `monitor.py` | Monitors file events in a target folder and logs them to `monitor_log.json`. |
 | `detection.py` | Analyzes logs to detect ransomware-like behavior based on time-based thresholds. |
 | `mitigation.py` | Terminates recently modified `.exe` files that are running and logs actions. |
-| `backup/` | Stores safe copies of files before encryption for recovery. |
 
 ---
 
