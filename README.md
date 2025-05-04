@@ -10,7 +10,7 @@ The project focuses on four main phases:
 2. **Monitoring** – Tracked file changes in real time using Python's `watchdog`.
 3. **Detection** – Identified suspicious activity based on rapid `.pdf` file modifications.
 4. **Mitigation** – Terminated malicious `.exe` processes and provided popup alerts.
-5. **Recovery** – Included backup and restore functionality for encrypted files.
+
 
 ---
 
